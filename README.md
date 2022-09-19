@@ -18,6 +18,7 @@ Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.b
   - [19/09/2022 - Clique aqui](https://docs.google.com/document/d/1xRtLWq-3-7ANTvzZ2ucwZcmSWr_blUSaiVAy7PFPKKM/edit?usp=sharing)
 - [Product Backlog - Clique aqui](https://docs.google.com/spreadsheets/d/1-A6d96psVwioDhuxfd-atZi3rj0OFO1sy3l-MK9hWFA/edit?usp=sharing)
 - [Refinamento de Product Backlog / Sprint Backlog - Clique aqui](https://docs.google.com/spreadsheets/d/1lmXFMgtJU36_n0e8QxsP2iSl0ETmBn9ra9e-QBoAlw0/edit?usp=sharing)
+- [Acomapanhamento da Sprint - Clique aqui](https://docs.google.com/spreadsheets/d/11Lt1ykHt7Ye_8EW9oi3s5Epe9Jlk0OFuRVbG0hS3x2c/edit?usp=sharing)
 - Personas:
   - [persona 1 - Clique aqui](https://docs.google.com/document/d/1GNWAw3F8UDIi9BPXcjbq2SfsxDLVdQOgWwYb4o81zrU/edit?usp=sharing)
   - [Persona 2 - Clique aqui](https://docs.google.com/document/d/14Ali98XBASeyaQ9NcfIZmk19AbCFgmQ5SBSKrw5Xqcw/edit?usp=sharing)
