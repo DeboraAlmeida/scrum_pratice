@@ -1,7 +1,6 @@
 # <h1 align="center">Scrum | T.EX - Technology Experts</h1>
 
-![ConsultoriaT EX](https://user-images.githubusercontent.com/99570969/190936114-62d243f4-a25a-4359-ad9b-8055213fcbb1.png)
-
+![ConsultoriaTEX-prototipoTIQUE](https://user-images.githubusercontent.com/99570969/192071233-a4782bc1-93c6-4f54-9f4f-621b57a7fcb8.png)
 
 ## Proposta de atividade:
 Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.br) como desenvolvimento do módulo de Metodologias ágeis do curso Full Stack JavaScript Developer.
