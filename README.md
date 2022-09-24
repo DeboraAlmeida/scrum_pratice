@@ -6,7 +6,7 @@
 ## Proposta de atividade:
 Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.br) como desenvolvimento do módulo de Metodologias ágeis do curso Full Stack JavaScript Developer.
 
-Como desafio das aulas de UX e metodologias ágeis foi lançado o desafio de criar um protótipo de aplicativo para o cliente Adalberto.
+Para atividade prática das aulas de UX e metodologias ágeis foi lançado o desafio de criar um protótipo de aplicativo para o cliente Adalberto.
 
 Sr. Adalberto informou que possui uma rede de lojas conveniadas e quer criar uma presença digital oferecendo cupons de desconto.
 
