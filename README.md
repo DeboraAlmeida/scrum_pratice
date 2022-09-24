@@ -3,12 +3,21 @@
 ![ConsultoriaT EX](https://user-images.githubusercontent.com/99570969/190936114-62d243f4-a25a-4359-ad9b-8055213fcbb1.png)
 
 
-Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.br) como desenvolvimento do módulo de Metodologias ágeis do curso Full Stack JavaScript Developer
+## Proposta de atividade:
+Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.br) como desenvolvimento do módulo de Metodologias ágeis do curso Full Stack JavaScript Developer.
+
+Como desafio das aulas de UX e metodologias ágeis foi lançado o desafio de criar um protótipo de aplicativo para o cliente Adalberto.
+
+Sr. Adalberto informou que possui uma rede de lojas conveniadas e quer criar uma presença digital oferecendo cupons de desconto.
 
 ## Status do projeto:
-:wrench: Em construção
+:wrench: Apresentado para o cliente.
 
 ## Detalhes do projeto:
+- [Protótipo de App navegável - clique aqui](https://share.proto.io/5LK8YO/)
+
+- [Arquivo de apresentação de solução - Clique aqui](https://docs.google.com/presentation/d/1puZFm6-zloftFovTRPwxiBX6AIS8oFS_rqN9eNR9-6I/edit?usp=sharing)
+
 - [Proposta de projeto com todas as informações - Clique aqui](https://docs.google.com/document/d/1-NnzztLm0R_Vl3yOnCYAhUFGNSn8ftETt9xyJ2Z2BVs/edit?usp=sharing)
 - Dailys:
   - [15/09/2022 - Clique aqui](https://docs.google.com/document/d/1_kPHgOOVOUZ9IKx9g3_DBMekK9OTNcpYAHewQUUY-wM/edit?usp=sharing)
@@ -31,11 +40,11 @@ Projeto desenvolvido para [T.EX - Technology Experts](https://www.texperts.com.b
   - Filtro de produtos [user stories](https://docs.google.com/spreadsheets/d/1iZEapN10HtKhHeahm-Rnn4kzEQQte0kdb_naAxvHKmg/edit?usp=sharing)
 
 ## Projeto criado por:
-[<img src=" " width=80><br><sub>Almir Lima</sub>]() | [<img src="https://avatars.githubusercontent.com/u/112771711?v=4" width=80><br><sub>andersoncostta</sub>](https://github.com/andersoncostta) | [<img src="https://avatars.githubusercontent.com/u/95596031?v=4" width=80><br><sub>David Ferreira</sub>](https://github.com/Davidferreirajesus) | [<img src="https://avatars.githubusercontent.com/u/65206552?v=4" width=80><br><sub>DeboraAlmeida</sub>](https://github.com/DeboraAlmeida) | [<img src="https://avatars.githubusercontent.com/u/74393670?v=4" width=80><br><sub>Fernando Nogueira</sub>](https://github.com/CDGFPN) | [<img src="https://avatars.githubusercontent.com/u/112670909?v=4" width=80><br><sub>Joaoluizts</sub>](https://github.com/Joaoluizts) | [<img src="https://avatars.githubusercontent.com/u/99570969?v=4" width=80><br><sub>Kelvya Thais</sub>](https://github.com/kelvya) | [<img src="https://avatars.githubusercontent.com/u/106833667?v=4" width=80><br><sub>ShirleySSouza</sub>](https://github.com/ShirleySSouza) | [<img src="https://avatars.githubusercontent.com/u/104994331?v=4" width=80><br><sub>Sylvia Xavier</sub>](https://github.com/sylviaxavier)
+[<img src=" " width=80><br><sub>Almir Lima (Conta em construção)</sub>]() | [<img src="https://avatars.githubusercontent.com/u/112771711?v=4" width=80><br><sub>andersoncostta</sub>](https://github.com/andersoncostta) | [<img src="https://avatars.githubusercontent.com/u/95596031?v=4" width=80><br><sub>David Ferreira</sub>](https://github.com/Davidferreirajesus) | [<img src="https://avatars.githubusercontent.com/u/65206552?v=4" width=80><br><sub>DeboraAlmeida</sub>](https://github.com/DeboraAlmeida) | [<img src="https://avatars.githubusercontent.com/u/74393670?v=4" width=80><br><sub>Fernando Nogueira</sub>](https://github.com/CDGFPN) | [<img src="https://avatars.githubusercontent.com/u/112670909?v=4" width=80><br><sub>Joaoluizts</sub>](https://github.com/Joaoluizts) | [<img src="https://avatars.githubusercontent.com/u/99570969?v=4" width=80><br><sub>Kelvya Thais</sub>](https://github.com/kelvya) | [<img src="https://avatars.githubusercontent.com/u/106833667?v=4" width=80><br><sub>ShirleySSouza</sub>](https://github.com/ShirleySSouza) | [<img src="https://avatars.githubusercontent.com/u/104994331?v=4" width=80><br><sub>Sylvia Xavier</sub>](https://github.com/sylviaxavier)
 :---------: | :---------: | :---------:| :---------:| :---------:| :---------:| :---------:| :---------: | :---------: |
 
-## Dúvidas
+## Dúvidas:
 [Clique aqui](https://github.com/DeboraAlmeida/scrum_pratice/issues/new) para abrir uma questão.
 
-## Licença
+## Licença:
 [MIT License ](https://choosealicense.com/licenses/mit/)
